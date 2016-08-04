@@ -1,6 +1,3 @@
-# PanierLillois
-e-commerce
+# test e-commerce
 
-http://panier.oselille.org/
-
-https://ose-lille.github.io/PanierLillois/
+http://e-commerce.test.oselille.org/
